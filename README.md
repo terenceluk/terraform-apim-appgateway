@@ -1,0 +1,1 @@
+This repo deploys an APIM and App Gateway as described in the following Microsoft document: https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-integrate-internal-vnet-appgateway
